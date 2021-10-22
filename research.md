@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Research
-permalink: /research
 ---
 
-test_2!
+test_2! 
+permalink: /research
+
