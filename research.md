@@ -8,7 +8,6 @@ published: true
 ## Research
 
 ### Scientific articles
-(Selection - for a full list of academic publications visit my [Google Scholar profile](https://scholar.google.de/citations?user=NNdexFQAAAAJ&hl=en))
 
 - **Levi** (2022). Living standards shape individual attitudes on genetically modified food around the world. _Food Quality and Preference_, 95, 104371.	
 
@@ -33,13 +32,8 @@ Chicago
 
 ### In Preperation
 
-- **Levi** Political networks and the German carbon tax (with Lukas Fesenfeld, Christian Flachsland, and others)
+- Political networks and the German carbon tax (with Lukas Fesenfeld, Christian Flachsland, and others)
 
-**Levi** How does information provision influence acceptance of climate policies in the transport sector? (with Ingo Wolf)
+- How does information provision influence acceptance of climate policies in the transport sector? (with Ingo Wolf)
 
-**Levi** Effectivness and acceptance of climate policies in the transport sector (with Florian Koller, Ingo Wolf, Nicolas Koch & Christian Flachsland)
-
-
-
-
-
+- Effectivness and acceptance of climate policies in the transport sector (with Florian Koller, Ingo Wolf, Nicolas Koch & Christian Flachsland)
