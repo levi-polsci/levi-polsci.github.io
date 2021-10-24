@@ -8,13 +8,10 @@ published: true
 
 ## Teaching
 
-FU Berlin 		PS 15134 Ideen und Internationale Politik		2019
+- **Hertie School** 	(2021) Advanced Climate Policy (co-teaching)			2021
+- **Hertie School**		(2020) Sustainability (co-teaching)					2020
+- **Yale University**		(2019) Research Methods (co-teaching) [FES 550] 
+- **Freie Universität Berlin** (2019)	Ideen und Internationale Politik [PS 15134]
 
-Yale			FES 550 Research Methods (co-teaching)			2019
-
-Hertie School 	Advanced Climate Policy (co-teaching)			2021
-				Hertie School	Sustainability (co-teaching)	2020
                 
-I also give occasional tutorials and seminars on the use of machine learning and AI in social science research. 
-
-
+I also give occasional tutorials and seminars on the use of machine learning and AI in social science research.
