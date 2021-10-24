@@ -10,7 +10,7 @@
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
-/* BASE RULES */
+/* BASE RES */
 /**************/
 
 html {
@@ -80,10 +80,12 @@ a {
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
+  list-style-type:none;
 }
 
 ul {
   list-style-type: disc;
+  list-style-type:none;
 }
 
 ol {
@@ -95,7 +97,11 @@ ol ul, ul ol, ul ul, ol ol {
 }
 
 ul ul, ol ul {
-  list-style-type: circle;
+  list-style-type: none;
+}
+
+li.menu-item:not(:last-child) { 
+   margin-bottom: 3px;  
 }
 
 em, i {
