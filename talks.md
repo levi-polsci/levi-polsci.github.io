@@ -1,19 +1,19 @@
 
 
 ## Talks and Media
-<sub>(selection)</sub>
+<sub>(_selection_)</sub>
 
 ### Invited talks and presentation
 
-Science Po
+:classical_building:	Science Po
 
-Oxford
+:classical_building:	Oxford
 
-Festival
+:speaking_head:	Festival
 
-Conference Keynote
+:speaking_head:	Conference Keynote
 
-Institute at Advanced Sustainability Studies (IASS) Berlin 2020
+:classical_building:	Institute at Advanced Sustainability Studies (IASS) Berlin 2020
 Workshop “Using machine learning to analyze carbon tax attitudes”
 
 ### Media
