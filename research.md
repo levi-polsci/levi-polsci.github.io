@@ -27,5 +27,19 @@ Lamb, Mattioli, **Levi**, Roberts, Capstick, Creutzig, Minx, Müller-Hansen, Cul
 Kornek, Flachsland, Kardish, **Levi**, & Edenhofer (2020). What is important for achieving 2° C? UNFCCC and IPCC expert perceptions on obstacles and response options for climate change mitigation. _Environmental Research Letters_, 15(2), 024005.
 Chicago	
 
+### Under Review
+
+**Levi** & Goldberg. Democracy increases climate change concern. 
+
+### In Preperation
+
+Fesenfeld, Levi, Flachsland et al. Political networks and the German carbon tax
+
+Levi & Wolf. How does information provision influence acceptance of climate policies in the transport sector?
+
+Levi, Koller, Wolf, Koch, Flachsland et al. Effectivness and acceptance of climate policies in the transport sector
+
+
+
 
 
