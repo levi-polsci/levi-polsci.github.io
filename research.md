@@ -9,15 +9,15 @@ published: true
 
 ### Scientific articles
 
-- **Levi** (2022). Living standards shape individual attitudes on genetically modified food around the world. _Food Quality and Preference_, 95, 104371.	
+- **Levi** (2022). Living standards shape individual attitudes on genetically modified food around the world. _Food Quality and Preference_, 95, 104371. [[Code]](https://osf.io/dpqwr/)	
 
 - **Levi** (2021): Climate Change Communication in South Africa. In: _Oxford Research Encyclopedia of Climate Science_.
 
 - Flachsland & **Levi**. (2021) Germany’s federal climate change act. _Environmental Politics_ (2021): 1-23.
 
-- **Levi** (2021): Country-level conditions like prosperity, democracy, and regulatory culture predict individual climate change belief. _Communications Earth & Environment_. 2 (51).
+- **Levi** (2021): Country-level conditions like prosperity, democracy, and regulatory culture predict individual climate change belief. _Communications Earth & Environment_. 2 (51). [[Code]](https://doi.org/10.17605/OSF.IO/3BG2Z)	
 
-- **Levi** (2021): Why hate carbon taxes? Machine learning evidence on the roles of personal responsibility, trust, revenue recycling, and other Factors across 23 European countries. _Energy Research & Social Science_. 73 (101883). 
+- **Levi** (2021): Why hate carbon taxes? Machine learning evidence on the roles of personal responsibility, trust, revenue recycling, and other Factors across 23 European countries. _Energy Research & Social Science_. 73 (101883). [[Code]](https://osf.io/j82xz/)
 
 - Lamb, Mattioli, **Levi**, Roberts, Capstick, Creutzig, Minx, Müller-Hansen, Culhane & Steinberger (2020): Discourses of Climate Delay. _Global Sustainability_. 3 (17). 
 
@@ -28,7 +28,7 @@ Chicago
 
 ### Under Review
 
-- **Levi** & Goldberg. Democracy increases climate change concern. 
+- **Levi** & Goldberg. Democracy increases climate change concern. [[Preprint]](https://osf.io/preprints/socarxiv/6vk9d/)	[[Code]](https://osf.io/9q7xy/)
 
 ### In Preperation
 
