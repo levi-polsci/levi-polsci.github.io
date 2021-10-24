@@ -1,6 +1,3 @@
-
-
-## Talks and Media
 <sub>(_selection_)</sub>
 
 ### Invited talks and presentation
@@ -9,9 +6,9 @@
 
 :classical_building:	Oxford
 
-:speaking_head:	Festival
+🗣️	Festival
 
-:speaking_head:	Conference Keynote
+🗣️	Conference Keynote
 
 :classical_building:	Institute at Advanced Sustainability Studies (IASS) Berlin 2020
 Workshop “Using machine learning to analyze carbon tax attitudes”
