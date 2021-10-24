@@ -1,7 +1,7 @@
 
 
 ## Talks and Media
-(selection)
+<sub>(selection)</sub>
 
 ### Invited talks and presentation
 
@@ -20,9 +20,12 @@ Workshop “Using machine learning to analyze carbon tax attitudes”
 
 Over to Europe Podcast
 
-Nature Social Science Community
+Nature Behavioral & Social Science Community am 09.03.2021
+Behind the paper: How do societies shape climate change beliefs?
 
-Tagesspiegel
+Tagesspiegel Background am 19.01.2021
+			CO2-Preise brauchen politisches Vertrauen
+
 
 
 
