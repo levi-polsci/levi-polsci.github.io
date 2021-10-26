@@ -9,11 +9,11 @@ published: true
 
 ### Scientific articles
 
-- **Levi** (2022). Living standards shape individual attitudes on genetically modified food around the world. [_Food Quality and Preference_](https://www.sciencedirect.com/science/article/abs/pii/S0950329321002536), 95, 104371. [[Code]](https://osf.io/dpqwr/)	
+- **Levi** (2022): Living standards shape individual attitudes on genetically modified food around the world. [_Food Quality and Preference_](https://www.sciencedirect.com/science/article/abs/pii/S0950329321002536), 95, 104371. [[Code]](https://osf.io/dpqwr/)	
 
 - **Levi** (2021, forthcoming): Climate Change Communication in South Africa. In: _Oxford Research Encyclopedia of Climate Science_.
 
-- Flachsland & **Levi**. (2021) Germany’s federal climate change act. [_Environmental Politics_](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1980288) (2021): 1-23.
+- Flachsland & **Levi** (2021): Germany’s federal climate change act. [_Environmental Politics_](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1980288) (2021): 1-23.
 
 - **Levi** (2021): Country-level conditions like prosperity, democracy, and regulatory culture predict individual climate change belief. [_Communications Earth & Environment_](https://www.nature.com/articles/s43247-021-00118-6). 2 (51). [[Code]](https://doi.org/10.17605/OSF.IO/3BG2Z)	
 
@@ -23,8 +23,7 @@ published: true
 
 - **Levi**, Flachsland & Jakob (2020): Political Economy Conditions for Carbon Pricing. [_Global Environmental Politics_](https://scholar.google.de/citations?view_op=view_citation&hl=en&user=NNdexFQAAAAJ&sortby=pubdate&citation_for_view=NNdexFQAAAAJ:qjMakFHDy7sC). 20 (2).
 
-- Kornek, Flachsland, Kardish, **Levi**, & Edenhofer (2020). What is important for achieving 2° C? UNFCCC and IPCC expert perceptions on obstacles and response options for climate change mitigation. [_Environmental Research Letters_](https://scholar.google.de/citations?view_op=view_citation&hl=en&user=NNdexFQAAAAJ&sortby=pubdate&citation_for_view=NNdexFQAAAAJ:d1gkVwhDpl0C), 15(2), 024005.
-Chicago	
+- Kornek, Flachsland, Kardish, **Levi**, & Edenhofer (2020). What is important for achieving 2° C? UNFCCC and IPCC expert perceptions on obstacles and response options for climate change mitigation. [_Environmental Research Letters_](https://scholar.google.de/citations?view_op=view_citation&hl=en&user=NNdexFQAAAAJ&sortby=pubdate&citation_for_view=NNdexFQAAAAJ:d1gkVwhDpl0C), 15(2), 024005.	
 
 ### Under Review
 
