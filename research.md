@@ -31,6 +31,8 @@ published: true
 
 ### In Preperation
 
+- Climate change opinon formation across different countries. Book project.
+
 - Political networks and the German carbon tax (with Lukas Fesenfeld, Christian Flachsland, and others)
 
 - How does information provision influence acceptance of climate policies in the transport sector? (with Ingo Wolf)
