@@ -33,7 +33,7 @@ Besides my original research, I have served as a reviewer for journals like _Com
 
 ### In Preperation
 
-- Global climate, national perceptions. Explaining climate change opinon formation across different countries. Book project.
+- Global climate, national perceptions. Explaining climate change opinion formation across different countries. Book project.
 
 - Building public constituencies. The influence of renewable energy technology on political preferences.
 
@@ -41,4 +41,4 @@ Besides my original research, I have served as a reviewer for journals like _Com
 
 - How does information provision influence acceptance of climate policies in the transport sector? (with Ingo Wolf)
 
-- Effectivness and acceptance of climate policies in the transport sector (with Florian Koller, Ingo Wolf, Nicolas Koch & Christian Flachsland)
+- Effectiveness  and acceptance of climate policies in the transport sector (with Florian Koller, Ingo Wolf, Nicolas Koch & Christian Flachsland)
