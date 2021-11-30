@@ -7,6 +7,8 @@ published: true
 
 ## Research
 
+Besides my original research, I have served as a reviewer for journals like _Comperative Policital Studies_, _Environmental Research Letters_, or _Climate Policy_. I am also a meta-reviewer for _Climate Change AI_. 
+
 ### Scientific articles
 
 - **Levi** (2022): Living standards shape individual attitudes on genetically modified food around the world. [_Food Quality and Preference_](https://www.sciencedirect.com/science/article/abs/pii/S0950329321002536), 95, 104371. [[Code]](https://osf.io/dpqwr/)	
