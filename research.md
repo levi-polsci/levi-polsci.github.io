@@ -29,11 +29,13 @@ Besides my original research, I have served as a reviewer for journals like _Com
 
 ### Under Review
 
-- **Levi** & Goldberg. Democracy increases climate change concern. [[Preprint]](https://osf.io/preprints/socarxiv/6vk9d/)	[[Code]](https://osf.io/9q7xy/)
+- **Levi** & Goldberg. Political regimes and public opinion formation. How democracy increases climate change concern. [[Preprint]](https://osf.io/preprints/socarxiv/6vk9d/)	[[Code]](https://osf.io/9q7xy/)
 
 ### In Preperation
 
-- Climate change opinon formation across different countries. Book project.
+- Global climate, national perceptions. Explaining climate change opinon formation across different countries. Book project.
+
+- Building public constituencies. The influence of renewable energy technology on political preferences.
 
 - Political networks and the German carbon tax (with Lukas Fesenfeld, Christian Flachsland, and others)
 
