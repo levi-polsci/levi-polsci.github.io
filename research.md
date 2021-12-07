@@ -13,7 +13,7 @@ Besides my original research, I have served as a reviewer for journals like _Com
 
 - **Levi** (2022): Living standards shape individual attitudes on genetically modified food around the world. [_Food Quality and Preference_](https://www.sciencedirect.com/science/article/abs/pii/S0950329321002536), 95, 104371. [[Code]](https://osf.io/dpqwr/)	
 
-- **Levi** (2021): Climate change communication in South Africa. In:[ _Oxford Research Encyclopedia of Climate Science _](https://oxfordre.com/climatescience/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-851). Oxford University Press.
+- **Levi** (2021): Climate change communication in South Africa. In:[ Oxford Research Encyclopedia of Climate Science_](https://oxfordre.com/climatescience/view/10.1093/acrefore/9780190228620.001.0001/acrefore-9780190228620-e-851). Oxford University Press.
 
 - Flachsland & **Levi** (2021): Germany’s federal climate change act. [_Environmental Politics_](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1980288) (2021): 1-23.
 
