@@ -9,6 +9,10 @@ published: true
 
 Besides my original research, I have served as a reviewer for journals like _Comperative Policital Studies_, _Environmental Research Letters_, or _Climate Policy_. I am also a meta-reviewer for _Climate Change AI_. 
 
+### Working Paper
+
+- **Levi** & Goldberg. Political regimes and public opinion formation. How democracy increases climate change concern. [[Preprint]](https://osf.io/preprints/socarxiv/6vk9d/)	[[Code]](https://osf.io/9q7xy/)
+
 ### Scientific articles
 
 - **Levi** (2022): Living standards shape individual attitudes on genetically modified food around the world. [_Food Quality and Preference_](https://www.sciencedirect.com/science/article/abs/pii/S0950329321002536), 95, 104371. [[Code]](https://osf.io/dpqwr/)	
@@ -27,9 +31,6 @@ Besides my original research, I have served as a reviewer for journals like _Com
 
 - Kornek, Flachsland, Kardish, **Levi**, & Edenhofer (2020). What is important for achieving 2° C? UNFCCC and IPCC expert perceptions on obstacles and response options for climate change mitigation. [_Environmental Research Letters_](https://scholar.google.de/citations?view_op=view_citation&hl=en&user=NNdexFQAAAAJ&sortby=pubdate&citation_for_view=NNdexFQAAAAJ:d1gkVwhDpl0C), 15(2), 024005.	
 
-### Under Review
-
-- **Levi** & Goldberg. Political regimes and public opinion formation. How democracy increases climate change concern. [[Preprint]](https://osf.io/preprints/socarxiv/6vk9d/)	[[Code]](https://osf.io/9q7xy/)
 
 ### In Preperation
 
