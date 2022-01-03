@@ -11,7 +11,7 @@ Besides my original research, I have served as a reviewer for journals like _Com
 
 ### Working Paper
 
-- **Levi** & Goldberg. Political regimes and public opinion formation. How democracy increases climate change concern. [[Preprint]](https://osf.io/preprints/socarxiv/6vk9d/)	[[Code]](https://osf.io/9q7xy/)
+- **Levi** & Goldberg. Democracy and public opinion formation. How autocracies have supressed  climate change concern. [[Preprint]](https://osf.io/preprints/socarxiv/6vk9d/)	[[Code]](https://osf.io/9q7xy/)
 
 ### Scientific articles
 
