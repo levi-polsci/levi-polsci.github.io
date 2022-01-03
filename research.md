@@ -7,7 +7,7 @@ published: true
 
 ## Research
 
-Besides my original research, I have served as a reviewer for journals like _Comperative Policital Studies_, _Environmental Research Letters_, or _Climate Policy_. I am also a meta-reviewer for _Climate Change AI_. 
+Besides my original research, I have served as a reviewer for journals like _Comperative Policital Studies_, _Environmental Research Letters_, or _Journal of European Public Policy_. I am also a meta-reviewer for _Climate Change AI_. 
 
 ### Working Paper
 
